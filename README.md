@@ -13,7 +13,7 @@ Python script examples displaying brute force delete_on_empty and potential usag
 
 Clone the repository:
    ```bash
-   git clone https://github.com/dangkyle64/
+   git clone https://github.com/dangkyle64/conditional_folder_creation_python
    ```
 
 ### Requirements
